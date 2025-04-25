@@ -141,7 +141,7 @@ Every model's run includes:
 ## 📌 Author
 
 **Siddharth Adhikari**  
-**Sathiwick Kiran MS**
+**Sathwick Kiran M S**
 **Sahil Vachhani**
 
 ---

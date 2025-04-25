@@ -6,21 +6,22 @@ This project explores a full end-to-end pipeline for sentiment analysis on text 
 
 ## 🧠 Table of Contents
 
-1. [Text Processing](#text-processing)
-2. [N-Gram Function](#n-gram-function)
-3. [WordCloud](#wordcloud)
-4. [Feature Engineering](#feature-engineering)
-5. [TF-IDF Vectorization](#tf-idf-vectorization)
-6. [Model](#model)
-7. [Accuracy](#accuracy)
-8. [Hyperparameter Tuning](#hyperparameter)
-9. [Best Model Based on Accuracy](#hyperparameter-according-to-best-accuracy)
-10. [Training & Testing](#training--testing)
-11. [Logging with MLflow](#logging-train--test-models)
-12. [DistilBERT LLM](#distilbert-llm)
-13. [DeBERTa-v3-base LLM](#deberta-v3-base-llm)
-14. [LLM Comparison](#distilbert-llm-vs-deberta-v3-base-llm)
-15. [Add Noise and Re-Evaluate](#add-noise-and-re-evaluate-data)
+1. Text Processing
+2. N-Gram Function
+3. WordCloud
+4. Feature Engineering
+5. TF-IDF Vectorization
+6. Model
+7. Accuracy
+8. Hyperparameter Tuning
+9. Best Model Based on Accuracy
+10. Training & Testing
+11. Logging with MLflow
+12. DistilBERT LLM
+13. DeBERTa-v3-base LLM
+14. LLM Comparison
+15. Add Noise and Re-Evaluate
+
 
 ---
 

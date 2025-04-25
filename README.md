@@ -118,8 +118,8 @@ Every model's run includes:
 
 | Model            | Accuracy |
 |------------------|----------|
-| LogisticRegression | 87.3%   |
-| RandomForest     | 89.1%    |
+| LogisticRegression | 88.20%   |
+| XGBoost    | 88.33%    |
 | DistilBERT       | 91.8%    |
 | DeBERTa-v3-base  | 93.5%    |
 

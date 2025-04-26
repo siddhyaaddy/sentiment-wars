@@ -141,7 +141,7 @@ Every model's run includes:
 
 [Sentiment_Wars](https://siddhyaaddy-sentiment-wars-app-mq8xz3.streamlit.app/)  
 
---
+---
 ## 📌 Author
 
 **Siddharth Adhikari**  

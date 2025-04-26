@@ -137,7 +137,11 @@ Every model's run includes:
 - Kaggle (for dataset and experimentation)
 
 ---
+## Streamlit app
 
+[Sentiment_Wars](https://siddhyaaddy-sentiment-wars-app-mq8xz3.streamlit.app/)  
+
+--
 ## 📌 Author
 
 **Siddharth Adhikari**  

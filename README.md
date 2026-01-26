@@ -114,7 +114,7 @@ Every model's run includes:
 
 ---
 
-## ✨ Results
+##  Results
 
 | Model            | Accuracy |
 |------------------|----------|

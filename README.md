@@ -1,10 +1,10 @@
-# 📊 Benchmarking Machine Learning and Transformer Models for Amazon Review Sentiment Classification 
+#  Benchmarking Machine Learning and Transformer Models for Amazon Review Sentiment Classification 
 
 This project explores a full end-to-end pipeline for sentiment analysis on text data using both traditional machine learning techniques and transformer-based large language models (LLMs). It includes text preprocessing, feature engineering, model training, evaluation, and robustness testing by adding noise to the data.
 
 ---
 
-## 🧠 Table of Contents
+##  Table of Contents
 
 1. Text Processing
 2. N-Gram Function
@@ -25,48 +25,48 @@ This project explores a full end-to-end pipeline for sentiment analysis on text 
 
 ---
 
-## 📝 Text Processing
+##  Text Processing
 - Tokenization
 - Stop-word removal
 - Lemmatization
 - Lowercasing
 
-## 🔤 N-Gram Function
+##  N-Gram Function
 - Visualize n-grams (bigrams/trigrams) frequency
 - Understand frequent word combinations
 
-## ☁️ WordCloud
+##  WordCloud
 - Visual representation of word frequency
 
-## 🛠 Feature Engineering
+##  Feature Engineering
 - Label creation (Positive vs Negative)
 - Review length, polarity scores, etc.
 
-## 🧮 TF-IDF Vectorization
+##  TF-IDF Vectorization
 - Transform text to numerical features for traditional ML models
 
-## 🤖 Model
+##  Model
 - Logistic Regression
 - Random Forest
 - SVM
 - Naïve Bayes
 
-## 📈 Accuracy
+##  Accuracy
 - Evaluate and compare model accuracies using accuracy score, F1-score
 
-## 🎯 Hyperparameter Tuning
+##  Hyperparameter Tuning
 - Use `GridSearchCV` or other techniques for tuning model parameters
 
-## ✅ Best Model Based on Accuracy
+##  Best Model Based on Accuracy
 - Pick best parameters from tuning and retrain model
 
-## 🧪 Training & Testing
+##  Training & Testing
 - Train-test split
 - Fit final model and evaluate
 
 ---
 
-## 🔗 MLflow Tracking
+##  MLflow Tracking
 
 All models and metrics are tracked using **MLflow**, including:
 
@@ -83,12 +83,12 @@ All models and metrics are tracked using **MLflow**, including:
 
 ---
 
-## 🤗 Hugging Face Models
+##  Hugging Face Models
 
 We used Hugging Face Transformers for fine-tuning and evaluation.
 
-- ✅ **DistilBERT**: `distilbert-base-uncased`
-- ✅ **DeBERTa-v3-base**: `microsoft/deberta-v3-base`
+-  **DistilBERT**: `distilbert-base-uncased`
+-  **DeBERTa-v3-base**: `microsoft/deberta-v3-base`
 
 **Model Uploads**: Final models can be optionally pushed to Hugging Face Hub using:
 ```python
@@ -125,9 +125,9 @@ Every model's run includes:
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
-- Python 🐍
+- Python 
 - Scikit-Learn
 - Hugging Face Transformers
 - MLflow + DAGsHub
@@ -137,13 +137,13 @@ Every model's run includes:
 - Kaggle (for dataset and experimentation)
 
 ---
-## 📚 Streamlit app
+##  Streamlit app
 
 [Sentiment_Wars](https://siddhyaaddy-sentiment-wars-app-mq8xz3.streamlit.app/)  
 
 ---
 
-## 📌 Author
+##  Author
 
 **Siddharth Adhikari**  
 
